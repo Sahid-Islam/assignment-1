@@ -128,4 +128,36 @@
     color: lightgray;
     line-height: 20px;
 }
-/* note card start  */
+/* note card end  */
+
+/* solution section start  */
+.solution-main{
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.brain-content .title{
+    color: #30B868;
+    text-transform: uppercase;
+}
+.brain-content h1{
+    margin-top: 16px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.brain-content .details{
+    margin-top: 16px;
+    color: lightgray;
+    line-height: 20px;
+}
+.brain-content ul{
+    margin-top: 40px;
+    list-style: none;
+}
+.brain-content ul li{
+    margin-top: 16px;
+}
+.brain-content .fa-circle-check{
+    color: #30B868;
+}
