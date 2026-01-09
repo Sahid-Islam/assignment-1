@@ -50,6 +50,7 @@
     background-image: url('./assets/hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -236,4 +237,4 @@ small{
     color: #30B868;
 }
 
-/* footer start  */
+/* footer end  */
